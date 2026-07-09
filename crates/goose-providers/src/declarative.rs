@@ -41,6 +41,7 @@ pub(crate) mod declarative_providers {
         ovhcloud,
         perplexity,
         routstr,
+        sakana,
         saladcloud,
         scaleway,
         tanzu,
